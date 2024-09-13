@@ -3,7 +3,6 @@ import {
   zStudentGetParam,
   zStudentPostBody,
   zStudentPutBody,
-  zStudentDeleteBody,
 } from "@lib/schema";
 import { NextRequest, NextResponse } from "next/server";
 
